@@ -1,0 +1,1 @@
+NEW RESULT2 IS: Hello from first file. Hello from second file.
